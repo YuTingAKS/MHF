@@ -69,3 +69,9 @@ Training MHF: (**MHF_Train.py**)
 Evaluating MHF: (**MHF_Eval.py**)
 - MHF_MNA_Given1.00_R40_T40_alpha1.0_lam10_lam10_Eval_OutPut0.npy
 - Note: Evaluating all models corresponding to different metrics
+
+***
+### Settings: 
+Python version: 3.6.13
+
+Dependent packages: **requirement.txt**
